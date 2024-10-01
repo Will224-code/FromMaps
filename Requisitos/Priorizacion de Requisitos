@@ -1,1 +1,33 @@
+Requisitos Funcionales:
+Must Have (Debe Tener) 
+        *Rutas: La muestra de rutas cercanas al destino del usuario.
+        *Información detallada: Mostrar la información de los puntos de interés, en este caso, que ofrece, horario, si cuenta con servicio a domicilio, dirección, número telefónico, entre otros. 
+        *Busqueda: Opción de búsqueda del lugar de interés del estudiante (usuario).
+        *Comentarios: Opción para poder poner comentarios de los puntos de interés.
+        *Modo Monetario: Opción la cual das a escoger el presupuesto de lo que buscas, un ejemplo:  papelería: presupuesto entre 20-30
+          Esto con el fin de tener una mejor opción en la búsqueda.
+Should Have (Debería Tener)
+        * Creación de cuentas, con el fin de tener sus búsquedas y puntos relevantes guardados, sin necesidad de buscar de nuevo.
+Could Have (Podría Tener)
+        *Optimización y disponibilidad para la accesibilidad y disponibilidad de cualquier navegador.
+Should Have (Debería Tener) 
+        *Búsqueda por voz: la cual facilitara la búsqueda, y optimizara la rapidez, ya que, en vez de escribir, solo tendrías que hablar.
+Won´t Have (No Tendrá por Ahora)
+        * Alarma: una alarma que indica el tiempo de apertura y cierre de la tienda de interés.
+
+
+Requisitos no funcionales.
+
+Must Have (Debe Tener) 
+        *Conexion a bd: con el fin de tener mas control en la parte de puntos de interés del estudiante.
+        *Rendimiento: La plataforma debe ser capaz de soportar una gran cantidad de usuarios simultáneos sin fallar.
+        *Disponibilidad: El sistema debe estar disponible el 99.9% del tiempo.
+Should Have (Debería Tener)
+        *Escalabilidad, aunque el sistema debe poder crecer, en la versión inicial puedes limitarte a   un número específico de usuarios, y mejorar esto más adelante.
+        *Optimización y disponibilidad para la accesibilidad y disponibilidad de cualquier navegador.
+Could Have (Podría Tener)
+        *Optimización para dispositivos móviles: En la primera fase la plataforma podría ser más funcional.
+Won’t Have (No Tendrá por Ahora)
+        Por el momento no encontramos alguna función en esta sección.
+
 
